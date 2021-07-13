@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Dream Africa
 
-You can use the [editor on GitHub](https://github.com/JoshuaAbe/joshuaabe.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## VISION 
+Building the Nigeria of our dream. Making the expectations and aspirations of an average Nigerian a reality. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## OBJECTIVE
 
-### Markdown
+1. Identifying social and public problems/challenges in Nigeria.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Fostering the attainment of United Nation's Sustainable Development Goals in Nigeria and other African countries.
 
-```markdown
-Syntax highlighted code block
+3. Making education available, accessible and conducive for every citizen of Nigeria. 
 
-# Header 1
-## Header 2
-### Header 3
+4. Seeking creative, ideological, theoretical and practical solutions to solving the problems. 
 
-- Bulleted
-- List
+5. Consolidating human, financial and other resources to actualize the foregoing. 
 
-1. Numbered
-2. List
+6. Promoting and encouraging Nigerians to participate in nation and community building.
 
-**Bold** and _Italic_ and `Code` text
+7. Raising leaders, advancing sense of ownership and responsibility in Nigeria. 
 
-[Link](url) and ![Image](src)
-```
+## EDUCATION: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"ONE CHILD ONE DESK"
 
-### Jekyll Themes
+AIM: PROVIDING A CONDUSIVE ENVITOMENT FOR LEANING 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshuaAbe/joshuaabe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# OUR STORY 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In pursuit of our passion for human development, especially in the area of education, we
+took up the responsibility of paying the tuition of some teenagers we found hawking on the 
+streets of Lagos, Nigeria. Towards the end of year 2019 and early 2020, we decided to 
+advance our interest in improving education in our immediate community by physically 
+inspecting the state of facilities in public primary and secondary schools in Lagos in order 
+to identify the facilities we can provide or improve. In the course of our random physical
+inspections, we discovered amongst other things that an estimated 30 percent of pupils and 
+students in public schools do not have chairs and tables, so the pupils/ students often 
+squeeze themselves into the available desks, thereby learning in the most inconvenient
+manner. Some classes do not even have desks or chairs. This situation, which we found devastating inspired us to conceive the idea of 
+developing a campaign captioned as – “one child, one desk”. This project is going to be our first project as an Organisation because we believe that education is the center of our passion and it is a veritable weapon for the actualization of many conceivable dreams.  
