@@ -3,6 +3,11 @@
 ## VISION 
 Building the Nigeria of our dream. Making the expectations and aspirations of an average Nigerian a reality. 
 
+## PROBLEM
+Girls in NIgeria currently do not have a desk to write on and we aim to provide every school aged child with a personal workspace or a desk.
+
+![no desk nigeria](https://github.com/JoshuaAbe/joshuaabe.github.io/blob/main/images/IMG-0380.JPG)
+
 ## OBJECTIVE
 
 1. Identifying social and public problems/challenges in Nigeria.
