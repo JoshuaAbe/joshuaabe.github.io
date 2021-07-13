@@ -1,4 +1,4 @@
-# Dream Africa
+# Build the Next Africa Initiative 
 
 ## VISION 
 Building the Africa of our dream. Making the expectations and aspirations of an average African a reality. 
