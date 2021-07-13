@@ -38,3 +38,5 @@ students in public schools do not have chairs and tables, so the pupils/ student
 squeeze themselves into the available desks, thereby learning in the most inconvenient
 manner. Some classes do not even have desks or chairs. This situation, which we found devastating inspired us to conceive the idea of 
 developing a campaign captioned as – “one child, one desk”. This project is going to be our first project as an Organisation because we believe that education is the center of our passion and it is a veritable weapon for the actualization of many conceivable dreams.  
+
+Read My [Proposal](https://github.com/JoshuaAbe/joshuaabe.github.io/tree/main)
