@@ -1,34 +1,36 @@
 # Dream Africa
 
 ## VISION 
-Building the Nigeria of our dream. Making the expectations and aspirations of an average Nigerian a reality. 
-
-## PROBLEM
-Girls in NIgeria currently do not have a desk to write on and we aim to provide every school aged child with a personal workspace or a desk.
-
-![no desk nigeria](https://github.com/JoshuaAbe/joshuaabe.github.io/blob/main/images/IMG-0380.JPG)
+Building the Africa of our dream. Making the expectations and aspirations of an average African a reality. 
 
 ## OBJECTIVE
 
-1. Identifying social and public problems/challenges in Nigeria.
+1. Identifying social and public problems/challenges in Africa.
 
-2. Fostering the attainment of United Nation's Sustainable Development Goals in Nigeria and other African countries.
+2. Fostering the attainment of United Nation's Sustainable Development Goals in African countries.
 
-3. Making education available, accessible and conducive for every citizen of Nigeria. 
+3. Making education available, accessible and conducive for Africans. 
 
 4. Seeking creative, ideological, theoretical and practical solutions to solving the problems. 
 
 5. Consolidating human, financial and other resources to actualize the foregoing. 
 
-6. Promoting and encouraging Nigerians to participate in nation and community building.
+6. Promoting and encouraging Africans to participate in nation and community building.
 
-7. Raising leaders, advancing sense of ownership and responsibility in Nigeria. 
+7. Raising leaders, advancing sense of ownership and responsibility in Africa. 
 
 ## EDUCATION: 
 
-"ONE CHILD ONE DESK"
+AIM: PROVIDING A CONDUSIVE ENVITOMENT FOR LEARNING 
 
-AIM: PROVIDING A CONDUSIVE ENVITOMENT FOR LEANING 
+PROJECT: "ONE CHILD ONE DESK"
+
+## PROBLEM
+The project "One Child One Desk" is an offshoot of a problem we observed in some public/ private schools in some parts of Africa.  
+
+Many Pupils and Students currently do not have a desk to write on while some have inadequate furniture and often squeeze into the available desks, thereby learning in the most inconvenient manner. With this project, we aim to provide every school aged child with a personal desk for learning. 
+
+![no desk nigeria](https://github.com/JoshuaAbe/joshuaabe.github.io/blob/main/images/IMG-0380.JPG)
 
 # OUR STORY 
 
