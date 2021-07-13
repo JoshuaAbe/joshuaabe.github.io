@@ -44,6 +44,10 @@ inspections, we discovered amongst other things that an estimated 30 percent of 
 students in public schools do not have chairs and tables, so the pupils/ students often 
 squeeze themselves into the available desks, thereby learning in the most inconvenient
 manner. Some classes do not even have desks or chairs. This situation, which we found devastating inspired us to conceive the idea of 
-developing a campaign captioned as – “one child, one desk”. This project is going to be our first project as an Organisation because we believe that education is the center of our passion and it is a veritable weapon for the actualization of many conceivable dreams.  
+developing a campaign captioned as – “one child, one desk”. This project is going to be our first project as an Organisation because we believe that education is the center of our passion and it is a veritable weapon for the actualization of many conceivable dreams. 
+
+# PILOT PROJECT
+
+Between now and January 2022, we plan to provide between 100 to 500 desks for students in at least two public schools at Osborne, Ikoyi Lagos State. During one of our visits, we realised that one full class in one of the schools (Wahab Folawiyo High School) could not attend school with their peers due to insufficiency of desks. We want to change this narrative by providing enough desks to set up a classroom of an average of 100 students. We also plan to provide desks to other classrooms with insufficient desks.    
 
 Read My [Proposal](https://github.com/JoshuaAbe/joshuaabe.github.io/tree/main)
