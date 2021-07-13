@@ -28,9 +28,9 @@ PROJECT: "ONE CHILD ONE DESK"
 ## PROBLEM
 The project "One Child One Desk" is an offshoot of a problem we observed in some public/ private schools in some parts of Africa.  
 
-Many Pupils and Students currently do not have a desk to write on while some have inadequate furniture and often squeeze into the available desks, thereby learning in the most inconvenient manner. With this project, we aim to provide every school aged child with a personal desk for learning. 
+Many Pupils and Students currently do not have a desk to write on while some have inadequate furniture and often squeeze into the available desks, thereby learning in the most inconvenient manner. With this project, we aim to provide every school aged child with a personal desk for learning. The image below is a visual representation of the kind of problem we are trying to describe. 
 
-![no desk nigeria](https://github.com/JoshuaAbe/joshuaabe.github.io/blob/main/images/IMG-0380.JPG)
+![no desk nigeria](https://github.com/JoshuaAbe/joshuaabe.github.io/blob/main/images/IMG-0380.JPG)  
 
 # OUR STORY 
 
